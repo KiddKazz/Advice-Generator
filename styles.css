@@ -49,12 +49,12 @@ h3 {
     width: 100%;
 }
 .cardBottom {
-    padding: 0 3% 6% 3%;
+    padding: 0 3% 8% 3%;
 }
 .diceBg{
     position: absolute;
     left: 48.3%;
-    bottom: 27%;
+    bottom: 25%;
     margin: auto;
     width: 3.5%;
     background-color: hsl(150, 100%, 66%);
